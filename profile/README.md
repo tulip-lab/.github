@@ -33,7 +33,4 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 
 #### :horse_racing: Research Projects
 
-- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen?style=plastic)](https://github.com/tulip-lab/open-projects) 
-- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Nexus-brightgreen?style=plastic)](../nexus/README.md) 
-
-
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen?style=plastic)](https://github.com/tulip-lab/open-projects)  [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Nexus-brightgreen?style=plastic)](nexus.md) 

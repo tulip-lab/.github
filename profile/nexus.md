@@ -41,15 +41,15 @@ def tulip_lab_nexus_training(student):
 
 ### Stage :one: 
 
-- Two-month Internship
+- TBA
 
 
 ### Stage :two: 
 
-- Six-month Internship
+- TBA
 
 
 ### Stage :three: 
 
-- One-Year Internship
+- TBA
 
