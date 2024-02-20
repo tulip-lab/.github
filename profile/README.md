@@ -34,13 +34,30 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen?style=plastic)](https://github.com/tulip-lab/open-projects)  
 - **`NEXUS`** Research Training
-  - Embark on an exhilarating research journey with our `NEXUS` *Research Training Projects* at [TULIP Lab](https://www.tulip.org.au)! Seize the opportunity to dive into a diverse array of engaging `NEXUS` projects, each designed to ignite your passion for discovery and innovation under the initial guidance of experienced researchers.
-  - Your journey through our program is marked by distinct stages, each offering opportunities for growth and development. With every stage successfully completed, you'll gain deeper insights and skills, propelling you to the next level of your research training. The pinnacle of this journey offers a collaborative experience with TULIP Lab's esteemed supervisors for one year, culminating in high-quality publications.
-    - Stage :one: - quality technical report (*three* months)
-    - Stage :two: - quality academic publications (*six* months)
-    - Stage :three: - high-quality academic publications (*twelve* months, direct supervision from [TULIP-Lab supervisors](https://www.tulip.org.au/members))
-  - But the journey doesn't end there! For those who demonstrate exceptional talent and dedication, this path could very well lead to securing a coveted **PhD scholarship at top universities**. This is more than just training - it's a launchpad for your academic career, offering a chance to make your mark in the world of research. Join us at TULIP Lab, where your potential meets our expertise, and together, we can open doors to a future rich with opportunities and achievements. :rocket: :star2:
+  - Embark on an exhilarating research journey with our `NEXUS` *Research Training Projects* at [TULIP Lab](https://www.tulip.org.au)! Here, you have the unique opportunity to explore the cutting-edge `NEXUS` projects, each designed to ignite your passion for discovery and innovation under the guidance of [TULIP-Lab supervisors](https://www.tulip.org.au/members).
+
+   ```
+  FUNCTION NEXUS(student)
+  INPUT: student
+  OUTPUT: strong applicant for PhD scholarship from top universities
+  PROCESS:
+      ... details ...
+  ```
+
+  - `NEXUS` program is structured into distinct stages, each stage a stepping stone to your growth and scholarly development. Each successful completion of a stage not only enriches your knowledge and skills but also prepares you for more advanced research challenges. The zenith of this journey is a one-year collaborative endeavor with TULIP Lab's distinguished supervisors, leading to the creation of high-impact publications.
+    - Stage :one: - quality technical report (*three* months), supported by optional monthly group meeting with supervisors. Interested? Send your [request to join](https://groups.google.com/g/Nexus-S1) and include:
+        1. **Background**:
+             - *Name*: Your full name or the name you commonly use.
+             - *Affiliation*: Your association with the organization or subject of the group (e.g., student at XYZ University, researcher in a related field, etc.).
+             - *Role*: If relevant, your role or position (e.g., undergraduate student, graduate researcher, etc.).
+        2. **Motivation**: Share your reasons for joining, be it research interests or academic aspirations?
+        3. **Referral**: Mention any recommendations or existing member connections.
+    - Stage :two: - Focuses on producing quality academic publications over six months. Entry is by **invitation only** for Stage :one: achievers, encompassing compulsory monthly meetings with supervisors.
+    - Stage :three: - Aims to develop high-quality academic papers over twelve months under the direct supervision of TULIP-Lab distinguished supervisors, open by **invitation only** for Stage :two: achievers.
+  - This journey is more than training; it's a springboard to your future in academia. Exceptional performers may find themselves on the path to **a prestigious PhD scholarship from top universities**. Join us at TULIP Lab, and let's unlock a world brimming with possibilities and groundbreaking achievements. :rocket: :star2:
 
 
 
+[Request to Join Nexus-S1](https://groups.google.com/g/Nexus-S1)
 
+https://groups.google.com/g/Nexus-S1
