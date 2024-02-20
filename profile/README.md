@@ -41,7 +41,7 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
   INPUT: student
   OUTPUT: strong applicant for PhD scholarship from top universities
   PROCESS:
-      ... details ...
+      ... details available upon joining ...
   ```
 
   - `NEXUS` program is structured into distinct stages, each stage a stepping stone to your growth and scholarly development. Each successful completion of a stage not only enriches your knowledge and skills but also prepares you for more advanced research challenges. The zenith of this journey is a one-year collaborative endeavor with TULIP Lab's distinguished supervisors, leading to the creation of high-impact publications.
@@ -56,8 +56,3 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
     - Stage :three: - Aims to develop high-quality academic papers over twelve months under the direct supervision of TULIP-Lab distinguished supervisors, open by **invitation only** for Stage :two: achievers.
   - This journey is more than training; it's a springboard to your future in academia. Exceptional performers may find themselves on the path to **a prestigious PhD scholarship from top universities**. Join us at TULIP Lab, and let's unlock a world brimming with possibilities and groundbreaking achievements. :rocket: :star2:
 
-
-
-[Request to Join Nexus-S1](https://groups.google.com/g/Nexus-S1)
-
-https://groups.google.com/g/Nexus-S1
