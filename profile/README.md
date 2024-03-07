@@ -33,14 +33,17 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
 #### :horse_racing: Open Projects
 
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Projects-brightgreen?style=plastic)](https://github.com/tulip-lab/open-projects) 
+  - research projects for Honours students 
   - research projects for Deakin's [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) Unit and [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Unit 
-  - research projects for elite class students
-  - capstone projects for Bachelor and Master students
-- **`NEXUS`** Research Training
+  - assignments for elite class students
+  - capstone projects for Bachelor and Master by coursework students
+   
+#####  :runner: **`NEXUS`** Research Training
   - Embark on an exhilarating research journey with our `NEXUS` *Research Training Projects* at [TULIP Lab](https://www.tulip.org.au)! Here, you have the unique opportunity to explore the cutting-edge `NEXUS` projects, each designed to ignite your passion for discovery and innovation under the guidance of [TULIP-Lab supervisors](https://www.tulip.org.au/members).
-    - 2022 Outstanding Interns: [Daniel Gao](https://www.linkedin.com/in/dan-gao) 
-      - now with Wharton School of Business, UPenn, joined as high-school student
-      - with one 1st author publication: [Value creation in wine tourism - an exploration through deep neural networks](https://doi.org/10.1177/13567667221140605) 
+  - :star: 2022 Outstanding Interns: [Daniel Gao](https://www.linkedin.com/in/dan-gao) 
+    - joined as high-school student, now with [Wharton School of Business, UPenn](https://www.wharton.upenn.edu/) 
+    - completed `NEXUS` with one 1st author publication: 
+      - [Value creation in wine tourism - an exploration through deep neural networks](https://doi.org/10.1177/13567667221140605), Journal of Vacation Marketing
 
    ```
   FUNCTION NEXUS(student)
@@ -50,8 +53,9 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
       ... details available upon joining ...
   ```
 
-  - `NEXUS` program is structured into distinct stages, each stage a stepping stone to your growth and scholarly development. Each successful completion of a stage not only enriches your knowledge and skills but also prepares you for more advanced research challenges. The zenith of this journey is a one-year collaborative endeavor with TULIP Lab's distinguished supervisors, leading to the creation of high-impact publications. 
-    - Stage :one: (corresponding to [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) Projects) 
+  - `NEXUS` program is structured into :three: distinct stages, each stage a stepping stone to your growth and scholarly development. Each successful completion of a stage not only enriches your knowledge and skills but also prepares you for more advanced research challenges. The zenith of this journey is a one-year collaborative endeavor with TULIP Lab's distinguished supervisors, leading to the creation of high-impact publications. 
+  - Each student who successfully completes every stage will receive a signed certificate from the TULIP Lab director.
+    - :cinema: Stage :one: (corresponding to [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) Projects) 
       - quality technical report (*three* months), supported by optional monthly group meeting with supervisors. Interested? Send your [request to join](https://groups.google.com/g/Nexus-S1) and include:
         1. **Background**:
              - *Name*: Your full name or the name you commonly use.
@@ -59,9 +63,9 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
              - *Role*: If relevant, your role or position (e.g., undergraduate student, graduate researcher, etc.).
         2. **Motivation**: Share your reasons for joining, be it research interests or academic aspirations?
         3. **Referral**: Mention any recommendations or existing member connections.
-    - Stage :two: (corresponding to [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Projects) 
+    - :next_track_button: Stage :two: (corresponding to [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Projects) 
       - focuses on producing quality academic publications over six months. Entry is by **invitation only** for Stage :one: achievers, encompassing compulsory monthly meetings with supervisors.
-    - Stage :three: (corresponding to [BIT Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) project) 
+    - :next_track_button: Stage :three: (corresponding to [BIT Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) project) 
       - Aims to develop high-quality academic papers over twelve months under the direct supervision of TULIP-Lab distinguished supervisors, open by **invitation only** for Stage :two: achievers.
   - This journey is more than training; it's a springboard to your future in academia. Exceptional performers may find themselves on the path to **a prestigious PhD scholarship from top universities**. Join us at TULIP Lab, and let's unlock a world brimming with possibilities and groundbreaking achievements. :rocket: :star2:
 
