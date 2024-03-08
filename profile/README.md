@@ -58,7 +58,6 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
   ```
 
   - `NEXUS` program is structured into :three: distinct stages, each stage a stepping stone to your growth and scholarly development. Each successful completion of a stage not only enriches your knowledge and skills but also prepares you for more advanced research challenges. The zenith of this journey is a one-year collaborative endeavor with TULIP Lab's distinguished supervisors, leading to the creation of high-impact publications. 
-  - Each student who *successfully completes every stage* will receive **a signed certificate of completion** from the [TULIP Lab director](https://www.tulip.org.au/members/gangli/). Outstanding students will be provided with further opportunities, such as *overseas research internship*. 
     - :cinema: Stage :one: (corresponding to [SIT723](https://www.deakin.edu.au/courses/unit?unit=SIT723) Projects) 
       - quality technical report (*three* months), supported by optional monthly group meeting with supervisors. Interested? Send your [request to join](https://groups.google.com/g/Nexus-S1) and include:
         1. **Background**:
@@ -71,5 +70,6 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
       - focuses on producing quality academic publications over six months. Entry is by **invitation only** for Stage :one: achievers, encompassing compulsory monthly meetings with supervisors.
     - :next_track_button: Stage :three: (corresponding to [BIT Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) project) 
       - Aims to develop high-quality academic papers over twelve months under the direct supervision of TULIP-Lab distinguished supervisors, open by **invitation only** for Stage :two: achievers.
+  - Each student who *successfully completes every stage* will receive **a signed certificate of completion** from the [TULIP Lab director](https://www.tulip.org.au/members/gangli/). Outstanding students will be provided with further opportunities, such as *overseas research internship*. 
   - This journey is more than training; it's a springboard to your future in academia. Exceptional performers may find themselves on the path to **a prestigious PhD scholarship from top universities**. Join us at TULIP Lab, and let's unlock a world brimming with possibilities and groundbreaking achievements. :rocket: :star2:
 
