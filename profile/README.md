@@ -44,10 +44,11 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
     - Stage :two: - research projects compatible with Deakin's [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Unit
     - Stage :three: - research projects compatible with [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) projects
 
-  - :star: 2022 Outstanding Interns: [Daniel Gao](https://www.linkedin.com/in/dan-gao) 
-    - joined as *high-school* ([Caufield Grammar](https://www.caulfieldgs.vic.edu.au/)) student, now with [Wharton School of Business, UPenn](https://www.wharton.upenn.edu/) 
-    - completed `NEXUS` with one 1st author publication: 
+  - :star: 2021-2022 Outstanding Interns: [Daniel Gao](https://www.linkedin.com/in/dan-gao) 
+    - `INPUT`: [Caufield Grammar](https://www.caulfieldgs.vic.edu.au/) (*high-school*) student
+    - `PROCESS`: completed `NEXUS` research training with one 1st author publication: 
       - [Value creation in wine tourism - an exploration through deep neural networks](https://doi.org/10.1177/13567667221140605), *Journal of Vacation Marketing*, 2022
+    - `OUTPUT`: student at [Wharton School of Business, The University of Pennsylvania](https://www.wharton.upenn.edu/) 
 
    ```
   FUNCTION NEXUS(student)
@@ -68,8 +69,8 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
         3. **Referral**: Mention any recommendations or existing member connections.
     - :next_track_button: Stage :two: (corresponding to [SIT724](https://www.deakin.edu.au/courses/unit?unit=SIT724) Projects) 
       - focuses on producing quality academic publications over six months. Entry is by **invitation only** for Stage :one: achievers, encompassing compulsory monthly meetings with supervisors.
-    - :next_track_button: Stage :three: (corresponding to [BIT Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) project) 
+    - :next_track_button: Stage :three: (corresponding to [BIT Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) project)
       - Aims to develop high-quality academic papers over twelve months under the direct supervision of TULIP-Lab distinguished supervisors, open by **invitation only** for Stage :two: achievers.
-  - Each student who *successfully completes every stage* will receive **a signed certificate of completion** from the [TULIP Lab director](https://www.tulip.org.au/members/gangli/). Outstanding `NEXUS` achievers will be provided with further opportunities, such as *overseas research internship*, or even [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). 
-  - This journey is more than training; it's a springboard to your future in academia. Exceptional performers may find themselves on the path to **a prestigious PhD scholarship from top universities**, including [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). Join us at TULIP Lab, and let's unlock a world brimming with possibilities and groundbreaking achievements. :rocket: :star2:
+  - Each student who *successfully completes every stage* will receive :star2: **a signed certificate of completion** from the [TULIP Lab director](https://www.tulip.org.au/members/gangli/). Exceptional `NEXUS` achievers will be provided with further opportunities, such as *overseas research internship*, or even [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). 
+  - :rocket: This journey is more than training - it's a springboard to your future in academia. Exceptional performers may find themselves on the path to :star2: **a prestigious PhD scholarship from top universities**, including [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). Join us at [TULIP Lab](https://www.tulip.org.au), and let's unlock a world brimming with possibilities and groundbreaking achievements. 
 
