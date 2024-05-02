@@ -73,7 +73,7 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
     - :next_track_button: Stage :three: (corresponding to [BIT Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) project, **6-12 Months**)
       - Aims to develop high-quality academic papers over twelve months under the direct supervision of TULIP-Lab distinguished supervisors, open by **invitation only** for top Stage :two: achievers.
   - Each student who *successfully completes every stage* will receive :star2: **a signed certificate of completion** from the [TULIP Lab director](https://www.tulip.org.au/members/gangli/). 
-    - Exceptional `NEXUS` achievers will be provided with further opportunities, such as *overseas research internship*, or even [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). 
-  - :rocket: This journey is more than training - it's a springboard to your future in academia. Exceptional performers may find themselves on the path to :star2: **a prestigious PhD scholarship from top universities**, including [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). 
+  - :rocket: This journey is more than training - it's a springboard to your future in academia. 
+    - Exceptional performers may find themselves on the path to :star2: **a prestigious PhD scholarship from top universities**, including [Deakin University Postgraduate Research Scholarship](https://www.deakin.edu.au/study/fees-and-scholarships/scholarships/find-a-scholarship/rtp-and-duprs). 
   - :tulip: Join us at [TULIP Lab](https://www.tulip.org.au), and let's unlock a world brimming with possibilities and groundbreaking achievements. 
 
