@@ -6,7 +6,7 @@
 - :loud_sound: *Igniting Innovation, Cultivating Minds:* **Where Research Excellence Begins**
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
 
-Prepared by :tulip: **[TULIP Lab](https://www.tulip.org.au/members)**
+Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 
 ---
 
