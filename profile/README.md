@@ -19,6 +19,7 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 
 #### :man_teacher: Courses
 
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Agentic--AI-brightgreen?style=plastic)](https://github.com/tulip-lab/agentic-ai) :star:
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations--for--Data--Scientists-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen?style=plastic)](https://github.com/tulip-lab/modern-data-science) 
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification)  :star:
