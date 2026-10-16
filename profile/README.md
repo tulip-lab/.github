@@ -4,7 +4,7 @@
 
 ----
 
-## *T*eam for *U*niversal *L*earning and *I*ntellgient *P*rocessing
+## *T*eam for *U*niversal *L*earning and *I*ntelligent *P*rocessing
 
 - :loud_sound: *Igniting Innovation, Cultivating Minds:* **Where Research Excellence Begins**
 - Point of Contact :point_right: : [Prof. Gang Li](https://github.com/tuliplab)
@@ -15,7 +15,9 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 
 ### :boom: Open Resources 
 
-- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Data-brightgreen?style=plastic)](https://www.tulip.academy/open-data) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Code-brightgreen?style=plastic)](https://www.tulip.academy/open-code) 
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Data-brightgreen?style=plastic)](https://github.com/tulip-lab/open-data) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Open--Code-brightgreen?style=plastic)](https://github.com/tulip-lab/open-code)
+
+Website overviews: [Open Data](https://www.tulip.academy/open-data/) · [Open Code](https://www.tulip.academy/open-code/).
 
 
 ### :juggling_person: TULIP-Lab [Training](https://www.tulip.academy/research-training)
@@ -31,8 +33,8 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
 
 #### :weight_lifting_man: Practicals
 
-- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-SIT742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Agentic--AI-brightgreen?style=plastic)](https://github.com/tulip-lab/agentic-ai-lab) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification-lab)   
-- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP00-brightgreen?style=plastic)](https://github.com/tulip-lab/flip00) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01)[![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP02-brightgreen?style=plastic)](https://github.com/tulip-lab/flip02) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP03-brightgreen?style=plastic)](https://github.com/tulip-lab/flip03) 
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-SIT742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Agentic--AI--Lab-brightgreen?style=plastic)](https://github.com/tulip-lab/agentic-ai-lab) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification--Lab-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification-lab)
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP00-brightgreen?style=plastic)](https://github.com/tulip-lab/flip00) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP02-brightgreen?style=plastic)](https://github.com/tulip-lab/flip02) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP03-brightgreen?style=plastic)](https://github.com/tulip-lab/flip03)
 
 
 #### :horse_racing: Open Projects
@@ -51,7 +53,7 @@ Prepared by :tulip: **[TULIP Lab](https://www.tulip.academy/members)**
     - Stage :three: - research projects compatible with Deakin's [Honours](https://www.deakin.edu.au/course/bachelor-information-technology-honours) course
 
   - :star: 2021-2022 Outstanding Interns: [Daniel Gao](https://www.linkedin.com/in/dan-gao) 
-    - `INPUT`: [Caufield Grammar](https://www.caulfieldgs.vic.edu.au/) (*high-school*) student
+    - `INPUT`: [Caulfield Grammar](https://www.caulfieldgs.vic.edu.au/) (*high-school*) student
     - `PROCESS`: completed `NEXUS` research training with one 1st author publication: 
       - [Value creation in wine tourism - an exploration through deep neural networks](https://doi.org/10.1177/13567667221140605), *Journal of Vacation Marketing*, 2022
     - `OUTPUT`: student at [Wharton School of Business, The University of Pennsylvania](https://www.wharton.upenn.edu/) 
