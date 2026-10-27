@@ -24,6 +24,7 @@ Website overviews: [Open Data](https://www.tulip.academy/open-data/) · [Open Co
 
 #### :man_teacher: Courses
 
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-AI--Security--Privacy-brightgreen?style=plastic)](https://github.com/tulip-lab/AI-Security-Privacy) — AI Security & Privacy *(private)*
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Agentic--AI-brightgreen?style=plastic)](https://github.com/tulip-lab/agentic-ai) :star:
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Math--Foundations--for--Data--Scientists-brightgreen?style=plastic)](https://github.com/tulip-lab/math-foundation-for-data-scientists) 
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Modern--Data--Science-brightgreen?style=plastic)](https://github.com/tulip-lab/modern-data-science) 
@@ -33,6 +34,7 @@ Website overviews: [Open Data](https://www.tulip.academy/open-data/) · [Open Co
 
 #### :weight_lifting_man: Practicals
 
+- [![GitHub watchers](https://img.shields.io/badge/tulip--lab-AI--Security--Privacy--Lab-brightgreen?style=plastic)](https://github.com/tulip-lab/AI-Security-Privacy-Lab) — companion practicals *(private)*
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-SIT742-brightgreen?style=plastic)](https://github.com/tulip-lab/sit742) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Agentic--AI--Lab-brightgreen?style=plastic)](https://github.com/tulip-lab/agentic-ai-lab) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-Pattern--Classification--Lab-brightgreen?style=plastic)](https://github.com/tulip-lab/pattern-classification-lab)
 - [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP00-brightgreen?style=plastic)](https://github.com/tulip-lab/flip00) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP01-brightgreen?style=plastic)](https://github.com/tulip-lab/flip01) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP02-brightgreen?style=plastic)](https://github.com/tulip-lab/flip02) [![GitHub watchers](https://img.shields.io/badge/tulip--lab-FLIP03-brightgreen?style=plastic)](https://github.com/tulip-lab/flip03)
 
